@@ -1,6 +1,6 @@
 
 class Pattern{
     public static void main(String[] args){
-        System.out.println("Hi , Good Afternooon");
+        System.out.println("Hi , Good ");
     }
 }
